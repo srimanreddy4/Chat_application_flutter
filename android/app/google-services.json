@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2854706383",
+    "project_id": "myapp-68679",
+    "storage_bucket": "myapp-68679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2854706383:android:39f1257705acbd42b92bba",
+        "android_client_info": {
+          "package_name": "com.example.club_appdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2854706383-sqkniq6bvkis2364l3kuuslp3i4kij34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhCZJkYy99fc7qEF0tdfi3KIiLF_NfVHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2854706383-sqkniq6bvkis2364l3kuuslp3i4kij34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
